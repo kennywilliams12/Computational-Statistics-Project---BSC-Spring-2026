@@ -3,7 +3,7 @@
 **Project Report**
 
 - **Student 1:** Gayakpa Kenny — 22510580
-- **Student 2:** Khaireddine Gatti
+- **Student 2:** Khaireddine Gatti - 17832155
 
 *Computational Statistics — Spring 2026 — May 27, 2026*
 
@@ -1232,8 +1232,9 @@ This project applied a coherent progression of statistical and machine-learning 
 
 ## Individual Contributions
 
-- **Student 1 (GAYAKPA Kenny):** Code and report
-- **Student 2 (Khaireddine Gatti):** Code and report
+- **Gayakpa Kenny:** Define the project problem, code and analyse experiment scripts, report
+writing
+- **Khaireddine Gatti:** Code and analyse experiment scripts, report writing
 
 ---
 
