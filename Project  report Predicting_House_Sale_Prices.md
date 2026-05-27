@@ -1232,8 +1232,8 @@ This project applied a coherent progression of statistical and machine-learning 
 
 ## Individual Contributions
 
-- **Student 1 (GAYAKPA Kenny):** Jupyter Notebook file and report
-- **Student 2 (Khaireddine Gatti):** Jupyter Notebook file
+- **Student 1 (GAYAKPA Kenny):** Code and report
+- **Student 2 (Khaireddine Gatti):** Code and report
 
 ---
 
