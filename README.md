@@ -3,7 +3,7 @@
 
 **Computational Statistics — Spring 2026**
 
-Authors: Gayakpa Kenny (22510580), Khaireddine Gatti
+Authors: Gayakpa Kenny , Khaireddine Gatti
 
 ## Overview
 
