@@ -19,35 +19,6 @@ The work is organized in five parts:
 
 All analyses are run in parallel on three target scales (`SalePrice`, `SalePrice_Log`, `SalePrice_BoxCox`) to assess robustness across transformations.
 
-## Repository Structure
-
-```
-.
-├── README.md                                    # This file
-├── Project  report Predicting_House_Sale_Prices.md          # Full project report
-└── figures/                                     # All figures referenced in the report
-    ├── saleprice_distribution.png
-    ├── transformations_comparison.png
-    ├── six_panel_distribution.png
-    ├── crosstab_overview.png
-    ├── crosstab_ovqual_extqual.png
-    ├── crosstab_ovqual_bsmqual.png
-    ├── crosstab_ovqual_centair.png
-    ├── crosstab_extqual_kitqual.png
-    ├── crosstab_centair_lotshp.png
-    ├── post_merge_heatmaps.png
-    ├── interaction_plots_saleprice.png
-    ├── interaction_plots_log.png
-    ├── interaction_plots_boxcox.png
-    ├── effect_bars_saleprice.png
-    ├── effect_bars_log.png
-    ├── effect_bars_boxcox.png
-    ├── residual_diagnostics_saleprice.png
-    ├── residual_diagnostics_log.png
-    ├── residual_diagnostics_boxcox.png
-    └── mlp_residual_diagnostics.png
-```
-
 
 - [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 - [Course repository](https://github.com/lydiaYchen/CStat26/tree/main/Project)
